@@ -1,0 +1,14 @@
+{
+  "name": "imdb-auto-rater",
+  "version": "1.0.0",
+  "description": "Opens IMDB and rates movies based on provided list",
+  "author": "Sam Rose",
+  "license": "MIT",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^5.3.0",
+    "cypress-wait-until": "^1.7.1"
+  }
+}

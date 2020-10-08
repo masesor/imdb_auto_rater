@@ -1,0 +1,5 @@
+cypress.env.json
+movies.txt
+node_modules/
+cypress/integration/examples
+cypress/integration/examples/
